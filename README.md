@@ -15,3 +15,6 @@ Concept
 -- See if simply calling bookmarks.update updates it
 -- If not, fetch the favicons manually (https://github.com/meltwater/fetch-favicon)
 -- With valid results, attempt to update bookmarks using techniques listed [here](https://appuals.com/fix-firefox-displaying-the-wrong-bookmark-favicons/) that can be done using a browser extension
+
+Other Resources:
+https://favicongrabber.com/service-api-reference
